@@ -8,7 +8,6 @@ import './App.css';
 import BooksList from './components/BooksList';
 import Catagories from './components/Categories';
 import Navigation from './components/Navigation';
-import AddBook from './components/AddBook';
 
 function App() {
   return (
@@ -18,7 +17,6 @@ function App() {
         <Routes>
           <Route exact path="/" element={<BooksList />} />
           <Route exact path="/Catagories" element={<Catagories />} />
-          <Route exact path="/AddBook" element={<AddBook />} />
         </Routes>
       </BrowserRouter>
     </div>
