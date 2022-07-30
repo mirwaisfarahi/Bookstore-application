@@ -8,7 +8,6 @@ function Navigation() {
       <div>
         <Link to="/">Books</Link>
         <Link to="/catagories">catagories</Link>
-        <Link to="/AddBook">Add Book</Link>
       </div>
     </div>
   );
