@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-# Math Magicians Application
+# Book Store Application
 
 > This is a react based Book Store application.
 
